@@ -1,0 +1,16 @@
+(dp0
+S'global'
+p1
+(lp2
+S'nigger'
+p3
+aS'faggot'
+p4
+aS'cunt'
+p5
+asV#azubu.test.en
+p6
+(lp7
+Vspick
+p8
+as.
